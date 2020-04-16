@@ -9,9 +9,10 @@ $(document).ready(function (e) {
         toggle_onclick($win, $navbar, width);
     });
 
-    $toggle_click(function (e) {
+    $toggle.click(function (e) {
         $navbar.toggleClass("toggle-left");
-    });
+    })
+
 });
 
 function toggle_onclick($win, $navbar, width) {
