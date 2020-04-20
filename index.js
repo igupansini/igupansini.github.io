@@ -33,3 +33,14 @@ var typed = new Typed('#typed', {
     backSpeed: 50,
     loop: true
 });
+
+var typed_2 = new Typed('#typed_2', {
+    strings: [
+        'Estudante de ADS',
+        'Programador',
+        'Gamer'
+    ],
+    typeSpeed: 50,
+    backSpeed: 50,
+    loop: true
+});
