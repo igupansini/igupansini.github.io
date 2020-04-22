@@ -117,3 +117,7 @@ body{
     background-size: 168%;
     background-position: 60% 0;
 }
+
+.skill .bars p, .site-content .skill .bars span{
+    line-height: 10px;
+}
