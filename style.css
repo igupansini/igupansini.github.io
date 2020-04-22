@@ -121,3 +121,12 @@ body{
 .skill .bars p, .site-content .skill .bars span{
     line-height: 10px;
 }
+
+@media screen and (min-width: 768px){
+    .toggle-button{
+        display: none;
+    }
+    #header{
+        z-index:0;
+    }
+}
