@@ -27,7 +27,9 @@ var typed = new Typed('#typed', {
     strings: [
         'Estudante de ADS',
         'Programador',
-        'Gamer'
+        'Gamer',
+        'O menino do TI',
+        'O Schumi'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -38,7 +40,9 @@ var typed_2 = new Typed('#typed_2', {
     strings: [
         'Estudante de ADS',
         'Programador',
-        'Gamer'
+        'Gamer',
+        'O menino do TI',
+        'O Schumi'
     ],
     typeSpeed: 50,
     backSpeed: 50,
