@@ -28,7 +28,6 @@ var typed = new Typed('#typed', {
         'Estudante de ADS',
         'Programador',
         'Gamer',
-        'O Schumi'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -40,7 +39,6 @@ var typed_2 = new Typed('#typed_2', {
         'Estudante de ADS',
         'Programador',
         'Gamer',
-        'O Schumi'
     ],
     typeSpeed: 50,
     backSpeed: 50,
